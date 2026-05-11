@@ -5,8 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 ![Domain](https://img.shields.io/badge/Domain-E--Commerce-purple?style=flat)
 
-> **Methodology inspired by [this tutorial](https://github.com/trentpark8800/online-retail-data-clustering), extended with original revenue contribution analysis, segment profiling, and business recommendations.**
-
 ---
 
 ## 📋 Table of Contents
